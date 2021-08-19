@@ -29,3 +29,5 @@ The project taught me many things.  I was not familiar with NLP tools before thi
 **MOVING FORWARD**
 
 What I would like to do to improve this project is obtain Reddit and/or twitter API keys to webscrape data (user's thoughts).  This would give ALOT of recent opinions which would give a better idea on how the retail investors' sentiments affect or the market prices.  
+
+this GitHub provided for course McGill Neural Networks and Deep Learning - YCNG 229
